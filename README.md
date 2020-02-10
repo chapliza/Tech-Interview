@@ -5,5 +5,5 @@ Based on a real home-take assignment during interview for a Senior Data Analyst 
 ## Materials
 
 * [Presentation](https://docs.google.com/presentation/d/1imz7ThlD6DZrS7pHfzUXDQDGWyJyIKVwxMRlpXstZDw/edit#slide=id.gcb9a0b074_1_0) - Based on my story
-* [Data source for practice](https://chapliza.shinyapps.io/air_shiny/) - interactive cloud made in Shiny
+* [Data source for practice](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all)
 * [Code examples] (https://docs.google.com/document/d/1ZXu9VFjeci-BSOEJDJrld8HPNyW_k8h9deftOcYRHMI/edit?usp=sharing)
