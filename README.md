@@ -1,6 +1,7 @@
 # Tech Interview: structure example
 
-Based on a real home-take assignment during interview for a Senior Data Analyst position. Disclaimer: this is not an educational material, it is based on my initiative to share my experience with interview prep.
+Based on a real home-take assignment during interview for a Senior Data Analyst position. You can use any code language you are comfortable with, I chose SQL because it is one of the most used languages in my company. The majority of these assignments are done in Python, R or even excel.
+Disclaimer: this is not an educational material, it is based on my initiative to share my experience with interview prep.
 
 ## Materials
 
